@@ -11,6 +11,7 @@
   margin-top: 10px;
   position: relative;
 
+
 }
 
 img {
@@ -19,4 +20,30 @@ img {
   bottom:20PX;
   left:18%;
 
+}
+
+span {
+  position: absolute;
+  right: 0px;
+}
+
+.sconto30 {
+  border: 2px;
+  background-color: green;
+}
+
+.sconto5 {
+  border: 2px;
+  background-color: red;
+}
+
+p {
+  position: absolute;
+  top: 80%;left: 50%;
+  color: red;
+  opacity: 0;
+}
+
+p:hover {
+  opacity: 1;
 }
