@@ -1,0 +1,22 @@
+
+.contenitore {
+  position: relative;
+}
+.box {
+  border:solid 2px;
+  height: 200px;
+  width: 15%;
+  background-color: #F0F8FF;
+  display: inline-block;
+  margin-top: 10px;
+  position: relative;
+
+}
+
+img {
+  position: absolute;
+  top:20px;
+  bottom:20PX;
+  left:18%;
+
+}
